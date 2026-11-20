@@ -802,7 +802,7 @@ It is held in memory only, deliberately: writing it to disk would make a fresh l
 ## ⚡ Quick Start
 
 ```bash
-git clone https://github.com/FatihMakes/Mark-LVII.git
+git clone [https://github.com/YashCoder2014/Jarvis-Mark-57-Mark-LVII.git]
 cd Mark-LVII
 python setup.py        # installs deps for YOUR OS + the browser automation engine
 python main.py
